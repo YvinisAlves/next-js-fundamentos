@@ -1,0 +1,10 @@
+.navegador {
+    padding: 30px;
+    margin: 10px;
+    border-radius: 8px;
+    transition: 300ms;
+    cursor: pointer;
+}
+.navegador:hover {
+    opacity: 80%;
+}
